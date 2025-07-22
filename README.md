@@ -3,7 +3,7 @@
 Julia toolbox for computing and plotting the Scaled Relative Graph for dynamical systems.
 
 In the `paper/` directory you will find scripts that reproduce all results in the journal paper:
-> J.P.J. Krebbekx, R. Tóth, A. Das. "Graphical Analysis of Nonlinear Multivariable Feedback Systems" *arXiv:2507:?????*, 2025.
+> J.P.J. Krebbekx, R. Tóth, A. Das. "Graphical Analysis of Nonlinear Multivariable Feedback Systems," *arXiv:2507:?????*, 2025.
 
 Please cite us when you generate results using our toolbox:
 ```
