@@ -1,3 +1,14 @@
+# =====================================================================
+# This file is part of the SrgTools.jl project, a software toolbox 
+# written in Julia for computations with (MIMO) Scaled Relative Graphs.
+#
+# Copyright (c) 2025, Julius P.J. Krebbekx, Eindhoven, The Netherlands
+# All rights reserved.
+#
+# This source code is licensed under the BSD 3-Clause License.
+# See the LICENSE file in the project root for license information.
+# =====================================================================
+
 # this script shows how to plot the SRG of an LTI system G, and to obtain the points that describe the boundary of the SRG as a polygon
 
 using SrgTools, Plots

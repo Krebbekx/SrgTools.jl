@@ -1,3 +1,14 @@
+# =====================================================================
+# This file is part of the SrgTools.jl project, a software toolbox 
+# written in Julia for computations with (MIMO) Scaled Relative Graphs.
+#
+# Copyright (c) 2025, Julius P.J. Krebbekx, Eindhoven, The Netherlands
+# All rights reserved.
+#
+# This source code is licensed under the BSD 3-Clause License.
+# See the LICENSE file in the project root for license information.
+# =====================================================================
+
 using SrgTools, Plots
 
 G(s::Number) = [s/(s+1) 2*s/(s+1); s^2/(s+1)^2 s/(s+1)^2] # 2x2 transfer function
